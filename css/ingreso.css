@@ -57,3 +57,7 @@ body{
 .form-group {
     margin-bottom: 15px; /* Espaciado entre elementos */
 }
+
+.table{
+    border-radius: 10px;
+}

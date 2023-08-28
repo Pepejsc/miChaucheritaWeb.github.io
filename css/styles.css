@@ -82,3 +82,11 @@ body{
     margin-top: 15px;
 }
 
+.album {
+    height: calc(100vh - 56px); /* 56px es la altura típica de un navbar, ajusta este valor según tu diseño */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    overflow-y: scroll;
+}
